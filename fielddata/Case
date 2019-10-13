@@ -1,7 +1,10 @@
 Account Name|AccountId
 Case Owner|OwnerId
 Case Reason|Reason
+Contact Email|Contact.Email
 Contact Name|ContactId
+Contact Phone|Contact.Phone
+Created By|CreatedById
 Date/Time Closed|ClosedDate
 Date/Time Opened|CreatedDate
 Internal Comments|Comments
