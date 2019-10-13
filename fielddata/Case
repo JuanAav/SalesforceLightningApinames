@@ -1,4 +1,13 @@
-Contact Name|ContactId
 Account Name|AccountId
-Type|Type
+Case Owner|OwnerId
 Case Reason|Reason
+Contact Name|ContactId
+Date/Time Closed|ClosedDate
+Date/Time Opened|CreatedDate
+Internal Comments|Comments
+Last Modified By|LastModifiedById
+Type|Type
+Web Company|SuppliedCompany
+Web Email|SuppliedEmail
+Web Name|SuppliedName
+Web Phone|SuppliedPhone
